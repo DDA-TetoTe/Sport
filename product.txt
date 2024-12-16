@@ -1,0 +1,11 @@
+1.bread , яблоко ,
+2. rice 
+3.cerials
+4.kasha
+5.plov
+6.egg
+7.banana
+8.chickken
+9.milk
+10.sugar
+11.salt
